@@ -18,6 +18,8 @@
 		gen app-bundle自动生成的文件包
 			R.java --资源管理者（监控资源）
 			工具自动生成的代码
+			![options](http://i.imgur.com/Y6JkULY.png)
+			
 ---
 android_001项目
 1.类中引用资源文件中的内容
