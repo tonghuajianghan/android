@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">android_001</string>
+    <string name="hello_world">Hello world! hanhan</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- 定义字符串资源  -->
+    <string name="msg">welcome jianhan</string>
+    <string name="button_name">按钮</string>
+
+</resources>

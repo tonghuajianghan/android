@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 国际化问题 -->
+    <string name="msg">欢迎，姜晗</string>
+
+</resources>
