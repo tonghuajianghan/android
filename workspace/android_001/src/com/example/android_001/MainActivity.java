@@ -14,6 +14,7 @@ public class MainActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        //加载activity_main.xml文件
         setContentView(R.layout.activity_main);
     }
 
