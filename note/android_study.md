@@ -31,5 +31,5 @@ android_001项目
 3.项目加载过程   
 >Manifest.xml是核心配置文件    
   
-![android调用过程](https://github.com/tonghuajianghan/android/blob/master/img/android_guocheng1.jpg.jpg)
+![android调用过程](https://github.com/tonghuajianghan/android/blob/master/img/android_guocheng1.jpg)
 
