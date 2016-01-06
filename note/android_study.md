@@ -9,6 +9,7 @@
 >原因：google 官网被墙
 >配置地址：androiddev中查询	
 ![options](http://i.imgur.com/Y6JkULY.png)  
+
 ---
 新建项目  
 1. 新建一个adv（安卓模拟器），开启模拟器  
