@@ -24,13 +24,13 @@ R.java --资源管理者（监控资源）  工具自动生成的代码
 			
 android_001项目
 ==
-1.类中引用资源文件中的内容  
+###1.类中引用资源文件中的内容  
 `textView.setText(R.string.msg);`  
-2.资源文件引用资源文件中的内容       
+###2.资源文件引用资源文件中的内容       
 `android:text="@string/msg" />`	           		
 > @就相当于类中的R，只有@+id特别，表示给资源文件加一个id值  
 
-3.项目加载过程   
+###3.项目加载过程   
 > Manifest.xml是核心配置文件    
 ![android调用过程](https://github.com/tonghuajianghan/android/blob/master/img/android_guocheng1.jpg)
 
