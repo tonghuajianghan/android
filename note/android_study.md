@@ -16,10 +16,9 @@
 1. 新建一个adv（安卓模拟器），开启模拟器  
 2. 新建一个android application project 项目  
 3. 项目目录含义
-
 >src 项目源代码位置  
->gen app-bundle自动生成的文件包  
->R.java --资源管理者（监控资源）  
+gen app-bundle自动生成的文件包  
+R.java --资源管理者（监控资源）  
 工具自动生成的代码  
 			
 android_001项目
