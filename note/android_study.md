@@ -2,15 +2,14 @@
 
 搭建环境
 ==
-1.eclipse + adt + sdk  
-可以下载android-bundle包含整个开发 （包含所有开发工具） 
- 
-2. 配置android环境变量  
-3. 打开sdk manager 下载不同的安卓版本    
-3.1配置options中的代理服务地址：
->  原因：google 官网被墙
->  配置地址：androiddev中查询	
-![options](http://i.imgur.com/Y6JkULY.png)  
+1.eclipse + adt + sdk   
+可以下载android-bundle包含整个开发 （包含所有开发工具)  
+2. 配置android环境变量    
+3. 打开sdk manager 下载不同的安卓版本     
+3.1配置options中的代理服务地址：  
+>  原因：google 官网被墙  
+>  配置地址：androiddev中查询  
+![options](http://i.imgur.com/Y6JkULY.png)    
 
 新建项目  
 ==
