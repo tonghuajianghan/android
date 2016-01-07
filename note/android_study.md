@@ -2,7 +2,7 @@
 
 搭建环境
 ==
-###1.eclipse + adt + sdk   
+*1.eclipse + adt + sdk   
 		可以下载android-bundle包含整个开发 （包含所有开发工具)  
 ###2. 配置android环境变量    
 ###3. 打开sdk manager 下载不同的安卓版本     
