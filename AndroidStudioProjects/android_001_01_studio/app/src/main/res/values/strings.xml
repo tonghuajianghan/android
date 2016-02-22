@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">android_001_01_studio</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main22">Main22Activity</string>
+    <string name="title_activity_listview">ListviewActivity</string>
+    <string name="title_activity_main23">Main23Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
